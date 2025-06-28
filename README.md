@@ -4,7 +4,6 @@ Welcome! This repository is a collection of **practical C/C++ projects** arrange
 
 Each project is designed to **teach you real concepts** in C/C++ through hands-on coding — so you build your skills **while building something useful** you can proudly showcase.
 
----
 
 ## 🟢 Level 1 – Beginner Projects
 Perfect for learning syntax, loops, conditionals, and functions.
@@ -21,7 +20,6 @@ Guess a random number between 1–100.
 Input your birthdate, output your exact age.
 - Learn: `<time.h>`, struct, date math
 
----
 
 ## 🟡 Level 2 – Intermediate Projects
 Dive into file I/O, modularization, and structured data.
@@ -38,7 +36,6 @@ Store and search contact details.
 Player vs player or simple computer logic.
 - Learn: 2D arrays, game loop, condition checking
 
----
 
 ## 🔵 Level 3 – Advanced Projects
 Explore pointers, recursion, parsing, and logic.
@@ -55,7 +52,6 @@ Solve a maze using DFS or BFS algorithms.
 Backtracking algorithm to solve any Sudoku grid.
 - Learn: recursion, 2D arrays, constraint checking
 
----
 
 ## 🔴 Level 4 – Expert Projects
 Master memory management, system programming, and algorithms.
@@ -72,7 +68,6 @@ Build your own basic command-line shell.
 Create a simple expression compiler/interpreter.
 - Learn: tokenizing, parsing, recursion, OOP in C++
 
----
 
 ## 📦 Folder Structure Suggestion
 
@@ -91,7 +86,6 @@ C-Cpp-Project-Ladder/
 │   └── 11-tiny-shell/
 ```
 
----
 
 ## ✨ Tips
 - ✅ Add `README.md` in each project folder
@@ -99,7 +93,6 @@ C-Cpp-Project-Ladder/
 - ✅ Include screenshots or GIFs of terminal output
 - ✅ Use `Makefile` if you want to automate build steps
 
----
 
 ## 🧠 Why This Repo Matters
 This repo isn't just code — it's a **proof of your progress**, a **learning archive**, and a **portfolio of real projects** that show you can think, build, debug, and document.
