@@ -86,13 +86,6 @@ C-Cpp-Project-Ladder/
 │   └── 11-tiny-shell/
 ```
 
-
-## ✨ Tips
-- ✅ Add `README.md` in each project folder
-- ✅ Document how to run the code
-- ✅ Include screenshots or GIFs of terminal output
-- ✅ Use `Makefile` if you want to automate build steps
-
 ##
 
 <p align="center">>. Happy coding!</p> 
