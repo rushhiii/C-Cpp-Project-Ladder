@@ -93,8 +93,6 @@ C-Cpp-Project-Ladder/
 - ✅ Include screenshots or GIFs of terminal output
 - ✅ Use `Makefile` if you want to automate build steps
 
+##
 
-## 🧠 Why This Repo Matters
-This repo isn't just code — it's a **proof of your progress**, a **learning archive**, and a **portfolio of real projects** that show you can think, build, debug, and document.
-
-Happy coding! 💻🔥
+<p align="center">>. Happy coding!</p> 
